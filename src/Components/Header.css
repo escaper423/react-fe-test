@@ -1,0 +1,30 @@
+.header{
+    padding: 0 20px;
+    width: calc (100vw - 20px);
+    height: 80px;
+    border-bottom: 1px solid #eeeeee;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.header-execute{
+    width: 160px;
+    height: 40px;
+    border: 0;
+    border-radius: 8px;
+    background-color: #888888;
+    color: #ffffff;
+    transition: .05s;
+    font-size: 1em;
+}
+.header-execute:hover{
+    background-color: #aaaaaa;
+}
+
+.active{
+    background-color: #6696e0;
+}
+.active:hover{
+    background-color: #96c6f0;
+}

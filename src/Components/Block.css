@@ -1,0 +1,22 @@
+.block{
+    width: 160px;
+    max-width: 90%;
+    padding: 8px;
+    overflow-wrap: break-word;
+    text-overflow: ellipsis;
+    height: 60px;
+    border: 0;
+    margin : 10px;
+    color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px #000000;
+    text-align: center;
+}
+
+.data{
+    background-color: #555555;
+}
+
+.func{
+    background-color: #8d8d8d;
+}

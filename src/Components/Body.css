@@ -1,0 +1,30 @@
+.body-content{
+    width: 100vw;
+    height: calc(100vh - 81px);
+    display: flex;
+}
+
+.block-container{
+    display:flex;
+    width: 200px;
+    height: 100%;
+    margin-left: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: .1s;
+}
+
+.slot-container{
+    display: flex;
+    width: calc(100vw - 200px);
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 850px){
+    .slot-container{
+        flex-direction: column;
+    }
+}
