@@ -1,5 +1,5 @@
 # 실행 방법
-주소창에 https://escaper423.github.io/react-fe-test/ 를 입력하여 실행하실 수 있습니다.
+주소창에 https://escaper423.github.io/react-fe-test/ 를 입력하거나 혹은 링크를 클릭하여 실행하실 수 있습니다.
 
 기술과제 영상에서 제시되었던 것과 같이, 좌측의 블럭을 드래그하여 슬롯에 갖다놓으면, 해당 슬롯에 장착이 됩니다.
 색이 진한 것은 data이며, 색이 연한 것은 function입니다.
